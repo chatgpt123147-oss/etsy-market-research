@@ -1,0 +1,13 @@
+# Secret keys - never upload
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Output data
+data/
+output/
